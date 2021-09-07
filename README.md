@@ -17,7 +17,7 @@ Sample website with plenty of files for demos to work around.
 
 ## How To Contribute
 
-Sample website with plenty of files for demos to work around.
+Please fork this repository and then issue Pull Requests for review.
 
 ## Author
 
