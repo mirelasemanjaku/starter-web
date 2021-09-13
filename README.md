@@ -1,7 +1,7 @@
 # Project title 
 
 Starter Web Repo
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. adding more changes from My_feature_branch.
 
 ## Introduction
 
