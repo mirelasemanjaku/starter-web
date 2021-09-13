@@ -3,11 +3,15 @@
 
 # TEAM
 
-    <mirela> -- <tester> -- <mirelasemanjaku@twitter.com>
+    <Mirela> -- <tester> -- <twitter>
+	<Gresi> -- <tester> -- <twitter>
+	<Jonida> -- <tester> -- <twitter>
+	<Kejdi> -- <dev> -- <twitter>
+	<Kristi> -- <dev> -- <twitter>
 
 # THANKS
 
-    <name>
+    To my mother for giving me life.
 
 # TECHNOLOGY COLOPHON
 
