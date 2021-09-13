@@ -22,7 +22,7 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Author
 
-Mirela Semanjaku
+Lela Semanjaku
 
 ### Rebase
 
