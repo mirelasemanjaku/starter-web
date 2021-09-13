@@ -26,6 +26,5 @@ Mirela Semanjaku
 ### Rebase
 Adding this section for rebase purpose.
 ### Copyright
-
-Lufthansa 2021
+All rights reserved. Lufthansa 2021
 
