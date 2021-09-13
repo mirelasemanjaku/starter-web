@@ -23,8 +23,12 @@ Please fork this repository and then issue Pull Requests for review.
 ## Author
 
 Mirela Semanjaku
+
 ### Rebase
+
 Adding this section for rebase purpose.
+
 ### Copyright
-All rights reserved. Lufthansa 2021
+
+All rights reserved 2021
 
